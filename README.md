@@ -1,1 +1,1 @@
-# assimp-inside-alibre-addon
+# alibre-assimp-addon
