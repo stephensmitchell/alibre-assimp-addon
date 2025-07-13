@@ -1,0 +1,1 @@
+# assimp-inside-alibre-addon
