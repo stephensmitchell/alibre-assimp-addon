@@ -1,0 +1,10 @@
+﻿<AlibreDesignAddOn specificationVersion="2" friendlyName="alibre-assimp">
+<Author name="Stephen S. Mitchell" link="https://github.com/stephensmitchell/alibre-assimp-addon"/>
+   <Copyright>Copyright (c) 2025 Stephen S. Mitchell</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="alibre-assimp-addon.dll"/>
+   <Icon location="Icons\logo.ico"/> 
+   <Menu text="assimp"/>
+   <Description>assimp</Description> 
+   <Workspace type="Always"/>
+   <Property name="Identifier" value="alibre-assimp-addon"/>
+</AlibreDesignAddOn>
