@@ -24,6 +24,9 @@
     <None Include="AlibreAddOn.cs" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="AssimpNet" Version="5.0.0-beta1" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="alibre-api">
       <HintPath>C:\Program Files\Alibre Design 28.1.0.28223\Program\alibre-api.dll</HintPath>
       <Private>False</Private>
