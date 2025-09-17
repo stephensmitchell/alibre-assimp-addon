@@ -1,8 +1,11 @@
+> [!CAUTION]
+> This is a work in progress
+
 # alibre-assimp-addon
 
-<img width="450" height="1466" alt="image" src="https://github.com/user-attachments/assets/7fec98e4-b52e-442b-8023-c032052aa565" />
+Assimp add-on for Alibre Design.
 
-### Export Format Implemented
+### Export Formats Implemented
 - [ ] `.3dm`
 - [ ] `.gLTF` (Generic)
 - [ ] `.DAE` (Collada)
@@ -19,3 +22,44 @@
 - [ ] `.gLTF 2.0` (partial)
 - [ ] `.3MF` ( experimental )
 - [ ] `.FBX` ( experimental )
+
+## Who is this for
+
+N/A
+
+## What it does
+
+N/A
+
+## How it works
+
+N/A
+
+## Known Issues
+
+N/A
+
+## Installation
+
+See Releases for the installer and portable .zip file.
+
+### Additional Resources
+
+N/A
+
+## Contribution
+
+N/A
+
+## Acknowledgment and License
+
+MIT — see license.
+
+## Credit & Citation
+
+N/A
+
+
+
+
+
